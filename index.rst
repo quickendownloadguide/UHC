@@ -10,7 +10,7 @@ Visit `activate.uhc.com <https://activate.uhc.com>`_ to activate your UnitedHeal
 
 .. image:: Button.png
    :alt: Activate.uhc.com
-   :target: #
+   :target: https://fm.ci/?aHR0cHM6Ly91aGNjYXJkaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 
 .. raw:: html
@@ -78,9 +78,9 @@ You can activate your card online by visiting:
 
 **2. What details do I need for activation?**  
 You’ll need:  
-✅ Your UHC card number  
-✅ Personal identification details (such as date of birth)  
-✅ Your UHC member ID
+* ✅ Your UHC card number  
+* ✅ Personal identification details (such as date of birth)  
+* ✅ Your UHC member ID
 
 **3. How long does activation take?**  
 Activation is instant! Once you submit your details, your card will be ready to use.
