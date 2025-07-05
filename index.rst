@@ -10,7 +10,7 @@ Visit `activate.uhc.com <https://activate.uhc.com>`_ to activate your UnitedHeal
 
 .. image:: Button.png
    :alt: Activate.uhc.com
-   :target: https://fm.ci/?aHR0cHM6Ly91aGNjYXJkaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :target: https://activateuhccom.wixsite.com/uhccard
 
 
 .. raw:: html
@@ -74,7 +74,7 @@ FAQs
 
 **1. Where do I activate my UHC card?**  
 You can activate your card online by visiting:  
-`https://activate.uhc.com <https://activate.uhc.com>`_
+`https://activate.uhc.com <https://activateuhccom.wixsite.com/uhccard>`_
 
 **2. What details do I need for activation?**  
 You’ll need:  
